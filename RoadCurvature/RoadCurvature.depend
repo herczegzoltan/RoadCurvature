@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1534100140 source:c:\users\herczeg zoltán\desktop\roadcurvature\roadcurvature\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<string.h>
+	<iomanip>
+	<math.h>
+
+1534254828 source:c:\users\zoltan.herczeg\desktop\home\desktop\roadcurvature\roadcurvature\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<string.h>
+	<iomanip>
+	<math.h>
+
